@@ -1,0 +1,11 @@
+conclusion,video,halfpixel,quality,psnr,ssim,speed,speed_std
+OK,/Users/leonidburtsev/Downloads/solution_template/video/source.avi,False,100,35.549713174112824,0.9346312740035486,22.372891376544903,0.1981216287674757
+OK,/Users/leonidburtsev/Downloads/solution_template/video/source.avi,False,80,35.2463912243676,0.931345501198904,11.720332232388584,0.011175538396731875
+OK,/Users/leonidburtsev/Downloads/solution_template/video/source.avi,False,60,34.46630067691208,0.920659219389949,4.427056807976265,0.011879533630654623
+OK,/Users/leonidburtsev/Downloads/solution_template/video/source.avi,False,40,34.27796766388792,0.9181225481678356,3.4536804471697127,0.006456704768645973
+OK,/Users/leonidburtsev/Downloads/solution_template/video/source.avi,False,20,34.01015060184008,0.9142453543514935,2.5120834251502893,0.007276262290761523
+OK,/Users/leonidburtsev/Downloads/solution_template/video/source.avi,True,100,36.00128901596462,0.9428057368515397,83.08405845196216,0.019629716436858343
+OK,/Users/leonidburtsev/Downloads/solution_template/video/source.avi,True,80,35.76230344344271,0.9397795959013115,43.63006121152407,0.04075396719418904
+OK,/Users/leonidburtsev/Downloads/solution_template/video/source.avi,True,60,35.05728045746452,0.9300817121807357,16.5426390511649,0.17375207941818815
+OK,/Users/leonidburtsev/Downloads/solution_template/video/source.avi,True,40,34.903610258815476,0.9277001459984839,13.017809236204469,0.003277343116169618
+OK,/Users/leonidburtsev/Downloads/solution_template/video/source.avi,True,20,34.635362864956,0.9240792289345229,9.367828245286818,0.011143809620238206
